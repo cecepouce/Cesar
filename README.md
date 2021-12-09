@@ -1,6 +1,5 @@
-# Cesar
 <h1 align="center">Hi 👋, I'm César</h1>
-<h3 align="center">A FullStack Develop from Paris</h3>
+<h3 align="center">A Junior FullStack Developer wanting to become Product Manager from Paris</h3>
 
 - 🔭 I’m currently working on [Drunked](https://www.drunked.xyz/)
 
